@@ -1,2 +1,4 @@
 # A10.-Create-and-Display-Cookies
-Create and Display Cookies
+Create and Display CookiesWhen you visit a website, small text files known as cookies are often placed on your device. These cookies serve various purposes, one of which is to collect information about your browsing behavior. As you navigate through different pages, cookies can store data such as the items you've added to a shopping cart, your login status, preferences, and information about the pages you've visited most frequently.
+
+Cookies play a crucial role in enhancing user experience by allowing websites to remember actions and settings over a period of time. However, they also raise privacy concerns because they can track your activities across multiple sites to build a detailed profile of your interests and behavior. This information is highly valuable for advertisers seeking to target specific demographics and can sometimes be shared or sold without the user's explicit consent.

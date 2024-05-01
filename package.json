@@ -1,0 +1,15 @@
+{
+  "name": "a10.-create-and-display-cookies",
+  "version": "1.0.0",
+  "description": "Create and Display CookiesWhen you visit a website, small text files known as cookies are often placed on your device. These cookies serve various purposes, one of which is to collect information about your browsing behavior. As you navigate through different pages, cookies can store data such as the items you've added to a shopping cart, your login status, preferences, and information about the pages you've visited most frequently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
